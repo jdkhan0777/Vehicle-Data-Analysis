@@ -1,5 +1,4 @@
-
-SQL Project - Used Car Sales Analysis
+Car Sales Analysis
 Overview
 This project analyzes used car sales data using SQL. The dataset contains various attributes such as car name, manufacturing year, selling price, kilometers driven, fuel type, transmission type, and ownership history. SQL queries are used to extract meaningful insights from the dataset.
 ________________________________________
